@@ -43,7 +43,6 @@ for ( let r = 0; r< row; r++){
    }
   }
 };
-
 sizePicker.addEventListener("submit", function(event) {
 event.preventDefault();
 makeGrid()
