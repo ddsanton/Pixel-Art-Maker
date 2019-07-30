@@ -1,4 +1,4 @@
-// Create variable
+// Create variables
 let inputWidth, inputHeight, row, column, tableCanvas;
 
 // 1. create event listeners.
